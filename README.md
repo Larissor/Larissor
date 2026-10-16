@@ -1,124 +1,204 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:161616&height=190&section=header&text=Larissa%20Passos&fontSize=52&fontColor=FFD92F&fontAlignY=42&desc=desenvolvimento%20de%20software%20%C2%B7%20intelig%C3%AAncia%20artificial&descSize=15&descColor=D9D9D9&descAlignY=64" width="100%" alt="Larissa Passos"/>
+<!-- BANNER PIKACHU -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFFDF5,45:FFF1A8,100:FFD43B&text=Larissa%20Passos&fontColor=493B00&fontSize=48&fontAlignY=38&desc=Python%20%7C%20Artificial%20Intelligence%20%7C%20Software%20Development&descAlignY=60&descSize=14&animation=fadeIn" alt="Banner amarelo e branco de Larissa Passos"/>
+
+<!-- PIKACHUS -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="95" alt="Pikachu"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png" width="70" alt="Pichu"/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="95" alt="Pikachu"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C99B00&center=true&vCenter=true&width=600&lines=Desenvolvedora+em+constante+evolu%C3%A7%C3%A3o;Python+%26+Intelig%C3%AAncia+Artificial;LLMs+%7C+RAG+%7C+APIs+%7C+Automa%C3%A7%C3%A3o;Transformando+ideias+em+projetos+reais" alt="Animação de texto"/>
+
+<br/>
 
 <a href="https://github.com/Larissor">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F5B700&background=00000000&center=true&vCenter=true&width=640&lines=Python+%C2%B7+FastAPI+%C2%B7+APIs+REST;LLMs+%C2%B7+RAG+%C2%B7+Embeddings;Aprendendo%2C+desenvolvendo+e+evoluindo+a+cada+projeto;Em+busca+de+est%C3%A1gio+e+vaga+j%C3%BAnior" alt="Typing animation"/>
+  <img src="https://img.shields.io/badge/GitHub-Larissor-FFF4B8?style=for-the-badge&logo=github&logoColor=493B00" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/lariissapassos/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-FFF4B8?style=for-the-badge&logo=linkedin&logoColor=493B00" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/Lariissor/">
+  <img src="https://img.shields.io/badge/Instagram-Lariissor-FFF4B8?style=for-the-badge&logo=instagram&logoColor=493B00" alt="Instagram"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/lariissapassos/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FFD92F" alt="LinkedIn"/></a>
-<a href="https://instagram.com/Lariissor"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=FFD92F" alt="Instagram"/></a>
-<a href="https://github.com/Larissor/DocIA"><img src="https://img.shields.io/badge/DocIA-000000?style=flat-square&logo=github&logoColor=FFD92F" alt="DocIA"/></a>
+*Um pouco de código, muita curiosidade e uma pitada de Pikachu ⚡*
 
 </div>
 
-<br/>
+---
 
-### ⚡ sobre mim
+## ⚡ Sobre mim
 
-Oi, eu sou a **Larissa**. Estudo desenvolvimento de software e inteligência artificial, e o que aprendo eu tento colocar em projetos práticos.
+Olá! Sou **Larissa Passos**, estudante de tecnologia e desenvolvedora com interesse em **Python, desenvolvimento back-end e Inteligência Artificial**.
 
-Sou técnica em **Análise e Desenvolvimento de Sistemas** pelo SENAI CETEC, e agora curso **Sistemas para Internet** no IFTO e **Inteligência Artificial e Machine Learning** na UniCesumar.
+Gosto de entender como as coisas funcionam e transformar esse conhecimento em aplicações práticas. Tenho experiência com desenvolvimento, APIs, automação e soluções que integram inteligência artificial a sistemas.
 
-Antes de programar de verdade, trabalhei com **suporte técnico**: manutenção de computadores, configuração de sistemas, redes e atendimento a usuários. Isso me ensinou a lidar com problemas reais e com gente de verdade do outro lado.
+Atualmente, estou aprofundando meus conhecimentos em modelos de linguagem (LLMs), RAG e aplicações de IA, enquanto continuo minha formação em tecnologia.
 
-**Hoje estou mergulhada em:** IA Generativa, LLMs, RAG e integração de sistemas.
+<img align="right" width="125" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu"/>
 
-**Procuro:** estágio ou vaga júnior em desenvolvimento de software, Python e IA.
+- 🐣 **Formação técnica:** Análise e Desenvolvimento de Sistemas — SENAI CETEC.
+- 💻 **Graduação:** Sistemas para Internet — IFTO, em andamento.
+- 🤖 **Estudos:** Inteligência Artificial e Machine Learning — UniCesumar, em andamento.
+- 🔎 **Interesses:** Python, APIs REST, IA generativa, RAG e automação.
+- 🌱 **Objetivo:** evoluir como desenvolvedora e criar soluções úteis com tecnologia.
 
-<br/>
+<br clear="right"/>
 
-### ⚡ tecnologias
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFD92F" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFD92F" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=FFD92F" alt="PHP"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=FFD92F" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/REST%20API-000000?style=flat-square&logoColor=FFD92F" alt="REST API"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=FFD92F" alt="SQL"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FFD92F" alt="MySQL"/>
+### Linguagens
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=light" alt="Python, JavaScript, PHP, HTML e CSS"/>
 
-<img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logoColor=FFD92F" alt="LLMs"/>
-<img src="https://img.shields.io/badge/IA%20Generativa-000000?style=flat-square&logoColor=FFD92F" alt="IA Generativa"/>
-<img src="https://img.shields.io/badge/RAG-000000?style=flat-square&logoColor=FFD92F" alt="RAG"/>
-<img src="https://img.shields.io/badge/Embeddings-000000?style=flat-square&logoColor=FFD92F" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=FFD92F" alt="Ollama"/>
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logoColor=FFD92F" alt="ChromaDB"/>
+### Back-end, banco de dados e ferramentas
 
-<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github,docker,linux,vscode&theme=light" alt="FastAPI, MySQL, Git, GitHub, Docker, Linux e VS Code"/>
 
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFD92F" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD92F" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=FFD92F" alt="Docker"/>
-<img src="https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=FFD92F" alt="Pytest"/>
+### Inteligência Artificial
+
+<img src="https://img.shields.io/badge/LLMs-FFF1A8?style=for-the-badge&logoColor=493B00" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FFF1A8?style=for-the-badge&logoColor=493B00" alt="IA generativa"/>
+<img src="https://img.shields.io/badge/RAG-FFF1A8?style=for-the-badge&logoColor=493B00" alt="RAG"/>
+<img src="https://img.shields.io/badge/Ollama-FFF1A8?style=for-the-badge&logo=ollama&logoColor=493B00" alt="Ollama"/>
+<img src="https://img.shields.io/badge/ChromaDB-FFF1A8?style=for-the-badge&logoColor=493B00" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Pytest-FFF1A8?style=for-the-badge&logo=pytest&logoColor=493B00" alt="Pytest"/>
 
 </div>
 
+<details>
+<summary>🌼 Outras tecnologias e conhecimentos</summary>
+
 <br/>
 
-### ⚡ projetos
+- APIs REST e integração de sistemas.
+- SQL e MySQL.
+- Python para desenvolvimento e automação.
+- Modelos de linguagem, embeddings e recuperação de contexto.
+- Docker e ambientes de desenvolvimento.
+- Git, GitHub e testes automatizados.
+- Conhecimentos em suporte técnico, hardware, software e redes.
+
+</details>
+
+---
+
+## 🚀 Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/Larissor/DocIA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Larissor&repo=DocIA&bg_color=000000&title_color=FFD92F&text_color=FFFFFF&icon_color=FFD92F&border_color=FFD92F&border_radius=12" alt="DocIA"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Larissor&repo=DocIA&theme=default&hide_border=true&bg_color=FFFDF5&title_color=C99B00&text_color=493B00&icon_color=E5B900" alt="Card do projeto DocIA"/>
 </a>
 
 </div>
 
-**DocIA / DevIA** é um assistente inteligente de documentos, ainda em desenvolvimento. Com ele exploro RAG, recuperação de informações e modelos de linguagem locais, usando Python, FastAPI, Ollama, ChromaDB, embeddings e Pytest.
+### 📚 DocIA — Assistente inteligente para documentos
 
-<sub>As funcionalidades da versão atual estão descritas no repositório.</sub>
+Projeto voltado à exploração de **RAG (Retrieval-Augmented Generation)** e modelos de linguagem para recuperação de informações a partir de documentos.
 
-<br/>
+**Tecnologias do projeto:**
 
-### ⚡ no github
+- Python
+- Ollama e modelos locais
+- Embeddings
+- ChromaDB
+- Pytest
+
+O projeto faz parte da minha jornada de aprendizado em Inteligência Artificial, explorando a integração entre recuperação de contexto e geração de respostas.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Larissor&show_icons=true&hide_border=false&border_color=FFD92F&border_radius=12&bg_color=000000&title_color=FFD92F&icon_color=FFD92F&text_color=FFFFFF&ring_color=FFD92F" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissor&layout=compact&hide_border=false&border_color=FFD92F&border_radius=12&bg_color=000000&title_color=FFD92F&text_color=FFFFFF" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Larissor&hide_border=false&border=FFD92F&border_radius=12&background=000000&ring=FFD92F&fire=FFD92F&currStreakLabel=FFD92F&currStreakNum=FFFFFF&sideLabels=FFD92F&sideNums=FFFFFF&dates=AAAAAA" alt="Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Larissor&bg_color=000000&color=FFD92F&line=FFD92F&point=FFFFFF&area=true&area_color=FFD92F&hide_border=true&radius=12" width="100%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Larissor&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Larissor/Larissor/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Larissor/Larissor/output/github-snake.svg"/>
-  <img alt="Snake contribution" src="https://raw.githubusercontent.com/Larissor/Larissor/output/github-snake.svg" width="100%"/>
-</picture>
+<a href="https://github.com/Larissor/DocIA">
+  <img src="https://img.shields.io/badge/Explorar%20projeto-FFD43B?style=for-the-badge&logo=github&logoColor=493B00" alt="Explorar projeto DocIA"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-### ⚡ vamos conversar?
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lariissapassos/"><img src="https://img.shields.io/badge/LinkedIn-FFD92F?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/></a>
-<a href="https://instagram.com/Lariissor"><img src="https://img.shields.io/badge/Instagram-FFD92F?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/></a>
-<a href="https://github.com/Larissor"><img src="https://img.shields.io/badge/GitHub-FFD92F?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Larissor&show_icons=true&hide_border=true&bg_color=FFFDF5&title_color=C99B00&text_color=493B00&icon_color=E5B900&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissor&layout=compact&hide_border=true&bg_color=FFFDF5&title_color=C99B00&text_color=493B00&langs_count=8" alt="Linguagens mais utilizadas"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161616,100:000000&height=90&section=footer&text=aprendendo%2C%20desenvolvendo%20e%20evoluindo%20a%20cada%20projeto%20%E2%9A%A1&fontSize=14&fontColor=FFD92F&fontAlignY=62" width="100%" alt="Rodapé"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Larissor&theme=default&hide_border=true&background=FFFDF5&ring=E5B900&fire=C99B00&currStreakLabel=C99B00&sideLabels=493B00&dates=8A7D52&currStreakNum=493B00&sideNums=493B00" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌱 Minha atividade
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Larissor&bg_color=FFFDF5&color=C99B00&line=E5B900&point=493B00&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Larissor&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+## ⚡ Minha jornada de contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Larissor/Larissor/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha nas contribuições do GitHub"/>
+
+</div>
+
+---
+
+## 💌 Vamos nos conectar?
+
+<div align="center">
+
+Se você também gosta de tecnologia, desenvolvimento e Inteligência Artificial, vamos trocar ideias!
+
+<a href="https://github.com/Larissor">
+  <img src="https://img.shields.io/badge/GitHub-FFF1A8?style=for-the-badge&logo=github&logoColor=493B00" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/lariissapassos/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFF1A8?style=for-the-badge&logo=linkedin&logoColor=493B00" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/Lariissor/">
+  <img src="https://img.shields.io/badge/Instagram-FFF1A8?style=for-the-badge&logo=instagram&logoColor=493B00" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="85" alt="Pikachu acenando"/>
+
+**Obrigada por visitar meu cantinho!** 💛
+
+*Continue aprendendo. Continue criando. Continue evoluindo.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:FFFDF5&height=110&section=footer" alt="Rodapé amarelo e branco"/>
+
+<sub>Desenvolvido com ☕, curiosidade e energia de Pikachu ⚡ — Larissa Passos</sub>
 
 </div>
