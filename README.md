@@ -1,26 +1,37 @@
- <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F9D342&height=200&section=header&text=Larissa%20Passos&fontSize=45&fontColor=202020&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Intelig%C3%AAncia%20Artificial&descAlignY=60&descSize=14" alt="Banner amarelo de Larissa Passos"/>
+<!--
+  README DE PERFIL — LARISSA PASSOS
+  Tema: Pikachu | Branco + Amarelo + Preto
+-->
 
-  <br/>
+<div align="center">
 
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="110" alt="Pikachu"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="90" alt="Pikachu animado"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="110" alt="Pikachu"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD92F&height=180&section=header&text=Larissa%20Passos&fontSize=42&fontColor=202020&fontAlignY=38&desc=Software%20Development%20%7C%20Artificial%20Intelligence&descAlignY=58&descSize=16"
+    alt="Banner amarelo de Larissa Passos"
+    width="100%"
+  />
 
-  <h2>⚡ Olá, mundo! Eu sou a Larissa ⚡</h2>
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    width="110"
+    alt="Pikachu"
+  />
 
-  <h3>Desenvolvimento de Software | Inteligência Artificial</h3>
+  <h3>⚡ Transformando ideias em soluções inteligentes</h3>
 
-  <img src="https://img.shields.io/badge/Python-Desenvolvimento-F9D342?style=for-the-badge&logo=python&logoColor=202020" alt="Python"/>
-  <img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-Em%20evolu%C3%A7%C3%A3o-202020?style=for-the-badge&logoColor=F9D342" alt="Inteligência Artificial"/>
-  <img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-F9D342?style=for-the-badge&logoColor=202020" alt="Aprendizado contínuo"/>
+  <p>
+    Desenvolvedora em formação | Python | Inteligência Artificial
+  </p>
 
-  <p><i>Transformando ideias em código com criatividade e energia elétrica! ⚡</i></p>
-
-  <a href="https://github.com/Larissor">
-    <img src="https://img.shields.io/badge/GitHub-Larissor-202020?style=flat-square&logo=github&logoColor=F9D342" alt="GitHub"/>
-  </a>
+  <p>
+    <a href="https://github.com/Larissor">
+      <img src="https://img.shields.io/badge/GitHub-Larissor-202020?style=for-the-badge&logo=github&logoColor=FFD92F" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/lariissapassos/">
+      <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 
 </div>
 
@@ -28,165 +39,185 @@
 
 ## ⚡ Sobre mim
 
-<img align="right" width="140" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" alt="Pikachu"/>
+Olá! Sou **Larissa Passos**, estudante de tecnologia com interesse em desenvolvimento de software e Inteligência Artificial.
 
-Olá! Sou **Larissa Passos**, estudante de tecnologia interessada em desenvolvimento de software, automação e inteligência artificial.
+Tenho formação técnica em **Análise e Desenvolvimento de Sistemas pelo SENAI CETEC** e curso **Sistemas para Internet no IFTO**, além de estar iniciando minha formação em **Inteligência Artificial e Machine Learning na UniCesumar**.
 
-Sou formada como técnica em Análise e Desenvolvimento de Sistemas pelo SENAI CETEC e atualmente curso **Sistemas para Internet no IFTO** e **Inteligência Artificial e Machine Learning na UniCesumar**.
+Minha experiência inclui desenvolvimento full stack, programação com Python, integração de APIs, automação e aplicações com IA. Também tenho experiência anterior com suporte técnico, configuração e manutenção de computadores, sistemas, redes e atendimento a usuários.
 
-Tenho experiência anterior com suporte técnico, manutenção e configuração de computadores, sistemas, redes e atendimento a usuários, além de experiência com desenvolvimento de software, Python, APIs, automação e aplicações de IA.
+Atualmente, direciono meus estudos para a construção de aplicações inteligentes, com foco em **IA Generativa, LLMs e sistemas RAG**, buscando transformar conhecimento técnico em projetos práticos, organizados e documentados.
 
-Atualmente, estou aprofundando meus conhecimentos em:
-
-- 🐍 Python e desenvolvimento de aplicações
-- 🤖 Inteligência Artificial Generativa e LLMs
-- 📚 RAG e recuperação de informações
-- 🔌 APIs REST e integração de sistemas
-- 🧪 Testes, documentação e boas práticas
-
-<br clear="right"/>
+🎯 **Objetivo profissional:** oportunidades de estágio e posições júnior em desenvolvimento de software, Python e Inteligência Artificial, nas quais eu possa contribuir, aprender e evoluir continuamente.
 
 ---
 
-## 🛠️ Linguagens e ferramentas
+## ⚡ Tecnologias e ferramentas
 
 ### 💻 Linguagens de programação
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD92F?style=for-the-badge&logo=python&logoColor=202020" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=202020" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,php&theme=dark" alt="Python, JavaScript e PHP"/>
+### 🔌 Back-end e APIs
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-202020?style=for-the-badge&logo=fastapi&logoColor=FFD92F" alt="APIs REST"/>
+</p>
 
-### 🔌 Back-end e banco de dados
+### 🗄️ Banco de dados
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=dark" alt="FastAPI e MySQL"/>
-
-</div>
-
-### ⚙️ Ferramentas de desenvolvimento
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Git, GitHub, Docker e VS Code"/>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/ChromaDB-202020?style=for-the-badge&logoColor=FFD92F" alt="ChromaDB"/>
+</p>
 
 ### 🤖 Inteligência Artificial
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-FFD92F?style=for-the-badge&logoColor=202020" alt="IA Generativa"/>
+  <img src="https://img.shields.io/badge/LLMs-202020?style=for-the-badge&logoColor=FFD92F" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-FFD92F?style=for-the-badge&logoColor=202020" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Embeddings-202020?style=for-the-badge&logoColor=FFD92F" alt="Embeddings"/>
+  <img src="https://img.shields.io/badge/Ollama-202020?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
-<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-202020?style=for-the-badge&logoColor=F9D342" alt="Ollama"/>
-<img src="https://img.shields.io/badge/LLMs-IA%20Generativa-F9D342?style=for-the-badge&logoColor=202020" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-Recupera%C3%A7%C3%A3o%20de%20Contexto-202020?style=for-the-badge&logoColor=F9D342" alt="RAG"/>
-<img src="https://img.shields.io/badge/Embeddings-Representa%C3%A7%C3%A3o%20Vetorial-F9D342?style=for-the-badge&logoColor=202020" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/ChromaDB-Banco%20Vetorial-202020?style=for-the-badge&logoColor=F9D342" alt="ChromaDB"/>
+### 🛠️ Ferramentas e ambiente de desenvolvimento
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=FFD92F" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-<sub>As tecnologias representam diferentes níveis de experiência e estudo. Nem todas correspondem a aplicações completas ou experiência em produção.</sub>
+> **Nota sobre meu aprendizado:** as tecnologias acima representam ferramentas com as quais tenho contato em diferentes níveis. Estou aprofundando meus conhecimentos em RAG, embeddings e aplicações com LLMs. O uso de uma tecnologia em um projeto não significa, por si só, domínio avançado ou experiência em produção.
 
 ---
 
-## 🚀 Projetos em destaque
+## ⚡ Projetos em destaque
 
-### 📄 DocIA — Assistente Inteligente de Documentos
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="75" alt="Pikachu"/>
+### ⚡ DocIA / DevIA — Assistente Inteligente de Documentos
 
 <a href="https://github.com/Larissor/DocIA">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-202020?style=for-the-badge&logo=github&logoColor=F9D342" alt="Ver projeto DocIA"/>
+  <img src="https://img.shields.io/badge/VER%20REPOSIT%C3%93RIO-FFD92F?style=for-the-badge&logo=github&logoColor=202020" alt="Ver repositório DocIA"/>
 </a>
 
-</div>
+Projeto pessoal de estudo e desenvolvimento de uma aplicação que explora **RAG (Retrieval-Augmented Generation)** para trabalhar com recuperação de informações em documentos e modelos de linguagem locais.
 
-Projeto de estudo e desenvolvimento de uma aplicação de inteligência artificial com foco na exploração da arquitetura **RAG (Retrieval-Augmented Generation)**.
-
-**Tecnologias utilizadas:**
+**Tecnologias utilizadas**
 
 - Python
-- Ollama e modelos de linguagem locais
-- Embeddings
+- FastAPI
+- Ollama
 - ChromaDB
-- Pytest
+- Modelos de linguagem e embeddings locais
+- Pytest para testes automatizados
 
-**Status:** em desenvolvimento.
+**Desenvolvimento e foco técnico**
 
-O projeto possui estrutura inicial de integração RAG e testes relacionados. Consulte o repositório para conferir a implementação atual.
+- Estruturação de uma aplicação Python com API.
+- Integração com o ecossistema local do Ollama.
+- Implementação e testes de componentes de recuperação de informações.
+- Exploração de busca semântica com embeddings e armazenamento vetorial.
+- Organização de configurações, dependências e testes do projeto.
 
-**Próximas melhorias:**
+**Status:** em desenvolvimento. O projeto está evoluindo por etapas; consulte o repositório para verificar quais funcionalidades estão disponíveis na versão atual.
 
-- Evoluir a ingestão e a recuperação de documentos.
-- Aprimorar a geração de respostas com contexto.
-- Ampliar os testes automatizados.
-- Melhorar a documentação e a experiência de utilização.
+**Próximos passos:** ampliar a integração entre ingestão de documentos, recuperação contextual e geração de respostas fundamentadas nas fontes, conforme a evolução dos testes.
 
 ---
 
 ## 🎓 Formação acadêmica
 
-| Instituição | Formação | Situação |
-|---|---|---|
-| SENAI CETEC | Técnico em Análise e Desenvolvimento de Sistemas | Concluído |
-| IFTO | Sistemas para Internet | Em andamento |
-| UniCesumar | Inteligência Artificial e Machine Learning | Em andamento |
+- **Inteligência Artificial e Machine Learning — UniCesumar**  
+  Em andamento · 1º período.
+
+- **Sistemas para Internet — IFTO**  
+  Graduação em andamento.
+
+- **Técnico em Análise e Desenvolvimento de Sistemas — SENAI CETEC**  
+  Concluído em 2023.
+
+- **Ensino Médio — Escola Estadual Frederico José Pedreira Neto**  
+  Concluído em 2022.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## ⚡ Experiência e conhecimentos práticos
+
+- **Desenvolvimento de software:** experiência com desenvolvimento full stack e construção de soluções utilizando diferentes tecnologias.
+- **Python e Inteligência Artificial:** atuação anterior com automação e aplicações de IA, além de estudos e projetos pessoais.
+- **APIs e integração de sistemas:** interesse e prática na comunicação entre serviços e aplicações.
+- **Suporte técnico:** experiência com manutenção e configuração de computadores, sistemas, redes e atendimento a usuários.
+- **Aprendizado contínuo:** desenvolvimento de projetos próprios para consolidar conhecimentos e ampliar meu repertório técnico.
+
+---
+
+## ⚡ Áreas de interesse
+
+- Desenvolvimento back-end com Python e FastAPI.
+- Inteligência Artificial Generativa e aplicações com LLMs.
+- RAG, embeddings e recuperação semântica de informações.
+- Agentes de IA e automação de processos.
+- Integração de APIs e sistemas.
+- Bancos de dados e aplicações orientadas a dados.
+
+---
+
+## ⚡ GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Larissor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F9D342&text_color=FFFFFF&icon_color=F9D342" alt="Estatísticas do GitHub"/>
+  <a href="https://github.com/Larissor">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Larissor&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=B8860B&icon_color=E0B400&text_color=333333"
+      alt="Estatísticas do GitHub de Larissa"
+      height="165"
+    />
+  </a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissor&layout=compact&hide_border=true&bg_color=0D1117&title_color=F9D342&text_color=FFFFFF" alt="Linguagens mais utilizadas"/>
+  <a href="https://github.com/Larissor">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissor&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=B8860B&text_color=333333"
+      alt="Linguagens mais presentes nos repositórios de Larissa"
+      height="165"
+    />
+  </a>
 
 </div>
 
-<sub>Estatísticas fornecidas por serviço externo. A disponibilidade pode variar, e as linguagens exibidas representam os repositórios analisados, não o nível de domínio.</sub>
-
----
-
-## 🎯 Objetivos profissionais
-
-Quero continuar evoluindo como desenvolvedora e construir aplicações úteis, organizadas e bem documentadas.
-
-Tenho interesse em oportunidades de estágio e posições júnior nas áreas de:
-
-- Desenvolvimento de software com Python
-- Desenvolvimento back-end e APIs REST
-- Inteligência Artificial e IA Generativa
-- Aplicações com LLMs e RAG
-- Automação e integração de sistemas
-
-Busco desenvolver minhas habilidades por meio de projetos práticos, testes, documentação e aprendizado contínuo.
+<sub>As estatísticas são fornecidas por um serviço externo e podem apresentar indisponibilidade ou limitações de cache.</sub>
 
 ---
 
 ## ⚡ Vamos nos conectar?
 
+Estou aberta a oportunidades para aprender, colaborar e desenvolver soluções em tecnologia.
+
 <div align="center">
 
-<a href="https://github.com/Larissor">
-  <img src="https://img.shields.io/badge/GitHub-Visite%20meu%20perfil-202020?style=for-the-badge&logo=github&logoColor=F9D342" alt="GitHub"/>
-</a>
+  <a href="https://github.com/Larissor">
+    <img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-202020?style=for-the-badge&logo=github&logoColor=FFD92F" alt="Meu GitHub"/>
+  </a>
 
-<br/><br/>
+  <a href="https://www.linkedin.com/in/lariissapassos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+  </a>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="85" alt="Pikachu"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="80" alt="Pikachu animado"/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="85" alt="Pikachu"/>
+  <br/><br/>
 
-### ⚡ Um projeto de cada vez. Uma evolução a cada commit. ⚡
+  **Continue aprendendo, evoluindo e colocando ideias em prática.**
 
-<i>Que nunca faltem curiosidade, criatividade e energia para construir algo novo!</i>
+  *Com curiosidade, criatividade e uma dose extra de energia elétrica. ⚡*
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F9D342&height=120&section=footer" alt="Rodapé amarelo"/>
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    width="65"
+    alt="Pikachu"
+  />
 
 </div>
