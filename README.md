@@ -147,8 +147,8 @@ O projeto faz parte da minha jornada de aprendizado em Inteligência Artificial,
 
 <div align="center">
 
-<a href="https://github.com/Larissor">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Larissor&bg_color=fffdf5&color=c99b00&line=e5b900&point=493b00&area=true&hide_border=true" alt="Gráfico de atividade no GitHub"/>
+<a href="https://github.com/Larissor?tab=overview">
+  <img src="https://img.shields.io/badge/Ver%20minhas%20contribui%C3%A7%C3%B5es-FFD43B?style=for-the-badge&logo=github&logoColor=493B00" alt="Ver contribuições no GitHub"/>
 </a>
 
 </div>
@@ -160,10 +160,14 @@ O projeto faz parte da minha jornada de aprendizado em Inteligência Artificial,
 <div align="center">
 
 <a href="https://github.com/Larissor">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Larissor&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+  <img src="https://img.shields.io/badge/Minha%20jornada-no%20GitHub-FFF1A8?style=for-the-badge&logo=github&logoColor=493B00" alt="Minha jornada no GitHub"/>
 </a>
 
-</div>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="80" alt="Pikachu"/>
+
+<sub>Cada contribuição é mais um passo na evolução ⚡</sub>
 ---
 
 ## ⚡ Minha jornada de contribuições
