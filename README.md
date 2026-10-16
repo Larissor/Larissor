@@ -147,7 +147,9 @@ O projeto faz parte da minha jornada de aprendizado em Inteligência Artificial,
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Larissor&bg_color=FFFDF5&color=C99B00&line=E5B900&point=493B00&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub"/>
+<a href="https://github.com/Larissor">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Larissor&bg_color=fffdf5&color=c99b00&line=e5b900&point=493b00&area=true&hide_border=true" alt="Gráfico de atividade no GitHub"/>
+</a>
 
 </div>
 
@@ -157,10 +159,11 @@ O projeto faz parte da minha jornada de aprendizado em Inteligência Artificial,
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Larissor&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+<a href="https://github.com/Larissor">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Larissor&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Profile Trophies"/>
+</a>
 
 </div>
-
 ---
 
 ## ⚡ Minha jornada de contribuições
